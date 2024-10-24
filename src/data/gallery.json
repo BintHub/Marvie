@@ -1,0 +1,29 @@
+{
+    "images": {
+        "cloudName": "ddml48ptj8",
+        "image1":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488544/Rectangle_5_ozidhl.png"
+            
+        },
+        "image2":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488544/Rectangle_6_yzfwwy.png"
+           
+        },
+        "image3":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488544/picture_set_2_tbnz4q.png"
+           
+        },
+        "image4":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488544/picture_set_3_rvamma.png"
+           
+        },
+        "image5":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488543/Rectangle_7_fpasoq.png"
+          
+        },
+        "image6":{
+            "url" :"https://res.cloudinary.com/dml48ptj8/image/upload/v1729488543/Rectangle_8_m0p3zh.png"
+           
+        }
+    }
+}
